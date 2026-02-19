@@ -1,19 +1,19 @@
 # 👋 Hey, I'm Yuyang Zhou!
 
-🚀 Software Engineer | 📊 Quant & AI Explorer | ☁️ Distributed Systems Enthusiast  
+🚀 Backend Engineer | Distributed Systems | AI Infrastructure  
 
-Currently pursuing M.S. in Applied Economics at Johns Hopkins University.
+M.S. in Applied Economics @ Johns Hopkins University.
 
-I enjoy building scalable backend systems, AI-driven applications, and production-ready infrastructure.
+I build scalable backend systems, search/data infrastructure, and production-ready services.
 
 ---
 
 ## 🔥 What I'm Working On
 
-- 🧠 RAG-based financial research AI
-- ⚙️ Go + React full-stack systems
-- 🔍 Elasticsearch search infrastructure
-- ☁️ Cloud deployment (GCP / AWS)
+- 🧠 Go + Java backend services (REST APIs, auth, service design)
+- ⚙️ Elasticsearch search infrastructure & performance tuning
+- 🔍 Cloud deployment (GCP / AWS) + CI/CD
+- ☁️ A finance/risk analytics side project (stress testing / modeling)
 
 ---
 
