@@ -2,7 +2,7 @@
 
 🚀 Backend Engineer | Distributed Systems | AI Infrastructure  
 
-M.S. in Applied Economics @ Johns Hopkins University.
+M.S. in Quantitative Economics&Computer Science @ Johns Hopkins University.
 
 I build scalable backend systems, search/data infrastructure, and production-ready services.
 
