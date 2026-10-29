@@ -1,49 +1,25 @@
-# 👋 Hey, I'm Yuyang Zhou!
+# Yuyang Zhou
 
-🚀 Backend Engineer | Distributed Systems | AI Infrastructure  
+**Backend Software Engineer · Distributed Systems & LLM Infrastructure**
 
-M.S. in Quantitative Economics&Computer Science @ Johns Hopkins University.
+M.S. Quantitative Econ (Computer Science Track) @ Johns Hopkins University (graduating May 2027) · Backend SWE Intern building production LLM services in Kotlin / Spring Boot.
 
-I build scalable backend systems, search/data infrastructure, and production-ready services.
+### 🚀 Selected Projects
 
----
+| Project | What it does | Tech |
+| --- | --- | --- |
+| **[DocuRAG](https://github.com/YuyangZ1/DocuRAG)** | RAG document Q&A over PDFs. Built a 25-question eval harness → **88% answer accuracy**, isolating retrieval as the bottleneck. | Node.js · Express · React · LangChain · OpenAI · Redis |
+| **[Autonomous-Delivery-System](https://github.com/YuyangZ1/Autonomous-Delivery-System)** | Full-stack fleet platform with real-time tracking. Load-tested to 200 users; cut a 17K-row lookup **263 ms → 23.7 ms**. | Java · Spring Boot · PostgreSQL · React/TS · Docker |
+| **[FeedFlow](https://github.com/YuyangZ1/FeedFlow)** | Distributed Go backend: modular services, JWT auth, Elasticsearch search, deployed on GCP. | Go · Elasticsearch · JWT · GCP |
+| **[Credit-Risk-Stress-Testing](https://github.com/YuyangZ1/Credit-Risk-Stress-Testing)** | Basel / Vasicek stress-testing: TTC PD, stressed-PD mapping, facility-level Unexpected Loss. | Python · pandas · NumPy · SciPy |
 
-## 🔥 What I'm Working On
+### 🛠 Tech
 
-- 🧠 Go + Java backend services (REST APIs, auth, service design)
-- ⚙️ Elasticsearch search infrastructure & performance tuning
-- 🔍 Cloud deployment (GCP / AWS) + CI/CD
-- ☁️ A finance/risk analytics side project (stress testing / modeling)
+**Languages:** Java · Kotlin · Go · Python · TypeScript · SQL
+**Backend:** Spring Boot · Node.js / Express · Flask · REST APIs
+**AI / LLM:** Claude API · OpenAI API · LangChain · RAG · MCP
+**Data / Infra:** PostgreSQL · Redis · Elasticsearch · Docker · AWS · GCP
 
----
+### 📫 Contact
 
-## 🛠 Tech Stack
-
-### Backend
-Go | Java | Spring Boot | Node.js | REST APIs  
-
-### Data & AI
-Python | pandas | NumPy | TensorFlow | RAG | Vector DB  
-
-### Infrastructure
-Docker | GCP | AWS | CI/CD | Linux  
-
----
-
-## 📌 Featured Project
-
-### 🔗 Social-AI  
-Full-stack social platform with:
-- JWT authentication
-- Elasticsearch search
-- Cloud deployment
-- Image generation
-
-👉 [View Repository](https://github.com/yuyangzhou0215/Social-AI)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/iann-zhou1
-- 📧 Email: zhouyuyang0215@gmail.com
+📧 zhouyuyang0215@gmail.com  ·  💼 [linkedin.com/in/iann-zhou1](https://www.linkedin.com/in/iann-zhou1)
